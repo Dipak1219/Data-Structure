@@ -18,7 +18,7 @@ int main()
         printf("\nEnter %d edge:", i);
         printf("\nEnter source vertex:");
         scanf("%d", &sc);
-        printf("\nEnter destination vertex:");
+        printf("\nEnter dest vertex:");
         scanf("%d", &dest);
         printf("\nEnter cost:");
         scanf("%d", &wt);
